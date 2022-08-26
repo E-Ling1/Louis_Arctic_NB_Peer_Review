@@ -1,0 +1,5 @@
+{
+  "2": "Refer to (http://data8.org/sp20/python-reference.html).\nfull_data should have 13 columns and 14610 rows. features_list should contain 10 elements.",
+  "3": "Refer to (http://data8.org/sp20/python-reference.html).\nUsing 2 FOR loops, group together rows by finding the averages of features across one year. One FOR loop uses YEAR as an iterator, while another FOR loop uses FEATURE as an iterator.",
+  "4": "Refer to (https://matplotlib.org/stable/index.html) and/or (https://stackoverflow.com/questions/41635448/how-can-i-draw-scatter-trend-line-on-matplot-python-pandas)."
+}
